@@ -10,7 +10,7 @@
 # feel free to use/change or include the code in your script
 
 # future plans
-## i might add rednet support(wireless), if i do you may have to modify the code to include multiple or just change the id. in other words the rednet sender/receiver will be seperate files.
+## ~~i might add rednet support(wireless), if i do you may have to modify the code to include multiple or just change the id. in other words the rednet sender/receiver will be seperate files.~~
 ## a version of seperately from the normal that includes all directions
 ## a varient that delays the redstone signal(customizable)
 ## a version so a redstone signal can be subtracted or added onto additional redstone inputs to make
