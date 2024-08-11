@@ -18,6 +18,6 @@
 # future plans
 ## ~~i might add rednet support(wireless), if i do you may have to modify the code to include multiple or just change the id. in other words the rednet sender/receiver will be seperate files.~~ this has been added
 ## ~~a version of seperately from the normal that includes all directions~~
-## a varient that delays the redstone signal(customizable)
+## ~~a varient that delays the redstone signal(customizable)~~ this probably wont be added, but if enough people wants it, it might get added 
 ## a version so a redstone signal can be subtracted or added onto additional redstone inputs to make
 ### note that all versions will have a alternative, (rednet) in the case that the user wants to make different stuff with said script
