@@ -1,3 +1,5 @@
+# major thanks to my sibling for cleaning up some of the code after i wrote it, and making omnidirectional input and output possible
+
 # how to get it to work 
 ## 1. install level os on both computers (alternativly put it inside the directory of the computer)
 ### wget run https://install.leveloper.cc/
