@@ -11,7 +11,7 @@
 ### optionally you can place a screen above the computers to test/ see current strenght of redstone
 
 # wireless how to get it to work
-## 1. majority of the steps is the same altho this time its important that you place wireless modem for sender on the right side
+## 1. majority of the steps is the same altho this time its important that you place wireless modem for sender on the right side (this isn't needed for omnidirectional only rednet)
 
 # feel free to use/change or include the code in your script
 
